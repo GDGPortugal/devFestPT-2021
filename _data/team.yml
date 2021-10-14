@@ -1,0 +1,364 @@
+- name: GDG Bragança
+  members:
+    - id: 1
+      name: Victor
+      surname: Oliveira
+      title: Organizador GDG Bragança
+      thumbnailUrl: Braganca/victor.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Bragança
+      social:
+        - name: twitter
+          link: 'https://twitter.com/_victorjg'
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/victor-oliveira-1a091151/'
+        - name: medium
+          link: 'ttps://medium.com/@victorlopesjg'
+        - name: github
+          link: 'https://github.com/victorlopesjg'
+- name: GDG Castelo Branco
+  members:
+    - id: 1
+      name: Bruno
+      surname: Matias
+      title: Organizador GDG Castelo Branco 
+      thumbnailUrl: Castelo/bruno_matias.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Castelo Branco
+      social:
+        - name: facebook
+          link: 'https://www.facebook.com/bmgmatias/'
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/bmatias/'
+        - name: twitter
+          link: 'https://twitter.com/BrunoMGMatias'
+        - name: instragram
+          link: 'https://www.instagram.com/bmatias.oficial/?hl=pt'
+    - id: 2
+      name: Hélio
+      surname: Freitas
+      title: Organizador GDG Castelo Branco
+      thumbnailUrl: Castelo/helio_freitas.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Castelo Branco
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/hélio-freitas-5ba68121/'
+    - id: 2
+      name: Roberto
+      surname: Pereira
+      title: Organizador GDG Castelo Branco
+      thumbnailUrl: Castelo/roberto.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Castelo Branco
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/roberto-pereira-96986a154/'
+- name: GDG Coimbra
+  members:
+    - id: 1
+      name: Carlos
+      surname: Mota
+      title: Organizador GDG Coimbra
+      thumbnailUrl: Coimbra/cafonsomota.png
+      ribbon:
+        - abbr: GDG
+          title: GDG Coimbra
+      social:
+        - name: github
+          link: 'https://github.com/cmota'
+        - name: twitter
+          link: 'https://www.twitter.com/cafonsomota/'
+        - name: site
+          link: 'https://cafonsomota.xyz/'
+    - id: 2
+      name: Ricardo
+      surname: Costeira
+      title: Organizador GDG Coimbra
+      thumbnailUrl: Coimbra/ricardo.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Coimbra
+      social:
+        - name: github
+          link: 'https://github.com/rcosteira79'
+        - name: twitter
+          link: 'https://twitter.com/rcosteira79'
+        - name: site
+          link: 'https://ricardocosteira.com/'
+    - id: 3
+      name: Catarina
+      surname: Lucas
+      title: Organizador GDG Coimbra
+      thumbnailUrl: Coimbra/catarina.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Coimbra
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/catarinalucasloureiro/'
+        - name: instagram
+          link: 'https://www.instagram.com/whyareustalking/'
+        - name: site
+          link: 'https://www.behance.net/catarina_lucas'
+        - name: site
+          link: 'https://dribbble.com/catarinalucas'
+    - id: 4
+      name: João
+      surname: Marques
+      title: Organizador GDG Coimbra
+      thumbnailUrl: Coimbra/joao.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Coimbra
+      social:
+- name: GDG Covilhã
+  members:
+    - id: 1
+      name: Diogo
+      surname: Lavareda
+      title: Organizador GDG Covilha
+      thumbnailUrl: Covilha/diogo.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+        - name: github
+          link: 'https://github.com/dlavareda'
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/diogo-lavareda-15498417/'
+    - id: 2
+      name: Igor
+      surname: Matias
+      title: Organizador GDG Covilha
+      thumbnailUrl: Covilha/igor.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+        - name: site
+          link: 'https://igormatias.com/'
+    - id: 3
+      name: Gabriel
+      surname: Almeida
+      title: Organizador GDG Covilha
+      thumbnailUrl: Covilha/gabriel.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/gabrielalmd/'
+    - id: 4
+      name: Paulo
+      surname: Silva
+      title: Organizador GDG Covilha
+      thumbnailUrl: Covilha/paulo.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+    - id: 5
+      name: João
+      surname: Vieira
+      title: Organizador GDG Covilha
+      thumbnailUrl: Covilha/joao.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+    - id: 6
+      name: Nuno
+      surname: Garcia
+      title: Organizador GDG Covilha
+      thumbnailUrl: placeholder.png
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+- name: GDG Faro
+  members:
+    - id: 1
+      name: Daniel
+      surname: Jorge
+      title: Organizador GDG Faro
+      thumbnailUrl: Faro/daniel.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Faro
+      social:
+        - name: github
+          link: 'https://github.com/danidroid'
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/dfajorge'
+        - name: twitter
+          link: 'https://twitter.com/dfajorge'
+    - id: 2
+      name: Tiago
+      surname: Fernandes
+      title: Organizador GDG Faro
+      thumbnailUrl: Faro/tiago.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Faro
+      social:
+        - name: github
+          link: 'https://github.com/tjgfernandes'
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/tjgfernandes'
+        - name: twitter
+          link: 'https://twitter.com/tjgfernandes'
+- name: GDG Leiria
+  members:
+    - id: 1
+      name: Pedro
+      surname: Alves
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/pedro.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+        - name: github
+          link: 'https://github.com/petealves'
+    - id: 2
+      name: Ricardo
+      surname: Maltez
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/ricardo.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+        - name: github
+          link: 'https://github.com/freakstatic'
+    - id: 3
+      name: Bruno
+      surname: Oliveira
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/bruno.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+    - id: 4
+      name: Rúben
+      surname: Caceiro
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/ruben.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+        - name: github
+          link: 'https://github.com/rcaceiro'
+    - id: 5
+      name: Miguel
+      surname: Sousa
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/miguel.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+        - name: github
+          link: 'https://github.com/imikezz'
+    - id: 6
+      name: Bernardo
+      surname: Borges
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/bernardo.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+        - name: github
+          link: 'https://github.com/kishido'
+        - name: twitter
+          link: 'https://twitter.com/kishido88'
+- name: GDG Lisboa
+  members:
+    - id: 1
+      name: Filipe
+      surname: Barroso
+      title: Organizador GDG Lisboa
+      thumbnailUrl: Lisboa/filipe_barroso.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Lisboa
+      social: 
+        - name: twitter
+          link: 'https://twitter.com/abarroso'
+    - id: 2
+      name: Inês
+      surname: Brás
+      title: Organizadora GDG Lisboa
+      thumbnailUrl: Lisboa/ines_bras.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Lisboa
+      social: 
+        - name: twitter
+          link: 'https://twitter.com/inesarmadabras'
+- name: GDG Madeira
+  members:
+    - id: 1
+      name: Carlos
+      surname: Abreu
+      title: Organizador GDG Madeira
+      thumbnailUrl: Madeira/CarlosAbreu.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Madeira
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/carlos-abreu-ab8518169/'
+        - name: twitter
+          link: 'https://twitter.com/carlosrsabreu'
+        - name: github
+          link: 'https://github.com/kidlivin'
+        - name: instagram
+          link: 'https://www.instagram.com/carlosrsabreu/'
+    - id: 2
+      name: Diogo 
+      surname: Freitas
+      title: Organizador GDG Madeira
+      thumbnailUrl: Madeira/DiogoFreitas.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Madeira
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/diogo-f-54235199/'
+    - id: 3
+      name: Fernando 
+      surname: Martins
+      title: Organizador GDG Madeira
+      thumbnailUrl: Madeira/FernandoMartins.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Madeira
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/fernando-jacob-teixeira-martins-16b1b6162/'
+        - name: github
+          link: 'https://github.com/fernando996'
+        - name: instagram
+          link: 'https://www.instagram.com/fernando.j.ma/'
+- name: GDG Porto
+  members:
+    - id: 1
+      name: Artur  
+      surname: Costa
+      title: Organizador GDG Porto
+      thumbnailUrl: Porto/artur_costa.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Porto
+      social:
+        - name: twitter
+          link: 'https://twitter.com/arturc_dev'
