@@ -1,33 +1,43 @@
  -
-   date: "2020-10-16"
-   dateReadable: "16 de Outubro"
+   date: "2021-11-26"
+   dateReadable: "26 de Novembro"
    tracks:
      -  {title: "Palestras", color: "#90be4e"}
 
    timeslots:
      - {
-       startTime: "18:00",
-       endTime: "18:10",
+       startTime: "16:00",
+       endTime: "16:10",
        sessionIds: [001]
      }
      - {
-       startTime: "18:10",
-       endTime: "18:50",
-       sessionIds: [013]
+       startTime: "16:10",
+       endTime: "16:50",
+       sessionIds: [002]
      }
      - {
-       startTime: "19:00",
-       endTime: "19:40",
-       sessionIds: [006]
+       startTime: "17:00",
+       endTime: "17:40",
+       sessionIds: [002]
      }
      - {
-       startTime: "19:40",
-       endTime: "19:50",
+       startTime: "17:50",
+       endTime: "18:30",
+       sessionIds: [002]
+     }
+     - {
+       startTime: "18:40",
+       endTime: "19:20",
+       sessionIds: [002]
+     }
+     - {
+       startTime: "19:20",
+       endTime: "19:30",
        sessionIds: [003]
      }
  -
-   date: "2020-10-17"
-   dateReadable: "17 de Outubro"
+   date: "2021-11-27"
+   dateReadable: "27 de Novembro"
    tracks:
      - {title: "Palestras", color: "#90be4e"}
    timeslots:
@@ -39,35 +49,25 @@
      - {
        startTime: "14:10",
        endTime: "14:50",
-       sessionIds: [012]
+       sessionIds: [002]
      }
      - {
        startTime: "15:00",
        endTime: "15:40",
-       sessionIds: [011]
+       sessionIds: [002]
      }
      - {
        startTime: "15:50",
        endTime: "16:30",
-       sessionIds: [007]
+       sessionIds: [002]
      }
      - {
        startTime: "16:40",
        endTime: "17:20",
-       sessionIds: [008]
+       sessionIds: [002]
      }
      - {
-       startTime: "17:30",
-       endTime: "18:10",
-       sessionIds: [010]
-     }
-     - {
-       startTime: "18:20",
-       endTime: "19:00",
-       sessionIds: [009]
-     }
-     - {
-       startTime: "19:00",
-       endTime: "19:10",
+       startTime: "17:20",
+       endTime: "17:30",
        sessionIds: [005]
      }

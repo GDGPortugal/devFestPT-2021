@@ -27,26 +27,25 @@ organizerAlternateName: "Google Developer Group Portugal"
 organizerDescription: "A Google Developers Group, mais conhecida como GDG, é uma iniciativa promovida pela Google que pretende ser um mecanismo para a criação de comunidades locais, cujo principal objectivo é difundir conhecimento tecnológico e não tecnológico pelos seus membros.Promovemos um ambiente inclusivo, uma vez que qualquer pessoa interessada por tecnologia são bem-vindos a participar. Neste momento, existem mais de 10 GDGs diferentes espalhadas por Portugal, todas estas com a mesma nobre missão."
 organizerEmail: "gdgportugal@googlegroups.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://gdgportugal.xyz/"
+organizerLink: ""
 
 # Head
 metaKeywords: "evento, gdg, devfestPT, google, programação, android, chrome, desenvolvedores, portugal, Lisboa, Coimbra, Porto, Madeira, Bragança, Castelo Branco, Covilhã, Faro, Leiria"
 twitterAccount: "@GDGPortugal"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.1.png"
-facebookAppId: "638759390345238"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeXKLM009l-XOhal9jOzA2mybtJtZK3uehNDZb9LtVvWLWrPg/viewform"
-c4sponsorsUrl: "mailto:gdgportugal@googlegroups.com?subject=Quero tornar-me parceiro do DevFest Portugal 2021"
+c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdj7JfA9LTd-IMkCeANN_mD7Ikp-EP5Nm5sl6_yjW8EYgg1Tw/viewform"
+c4sponsorsUrl: "mailto:gdgportugal@googlegroups.com?subject=Quero tornar-me parceiro do DevFest Portugal 2020"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Início"}
- #- {permalink: "/blog/", text: "Blog"}
- #- {permalink: "/schedule/", text: "Agenda"}
- #- {permalink: "/speakers/", text: "Oradores"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/team/", text: "Equipa"}
 # - {permalink: "/newsletter/", text: "Newsletter"}
 # bottomNavigationLinks:
@@ -61,7 +60,7 @@ eventDate: "26 e 27 - Novembro, 2021"
 typeoutTextValues: '"", "Portugal", "Lisboa", "Coimbra", "Porto", "Madeira", "Bragança", "Castelo Branco", "Covilhã", "Faro", "Leiria"'
 typeoutFallback: "Season"
 heroButtons:
- #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSeXKLM009l-XOhal9jOzA2mybtJtZK3uehNDZb9LtVvWLWrPg/viewform?fbzx=4827670039339898202", text: "Inscrições para apresentações"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdj7JfA9LTd-IMkCeANN_mD7Ikp-EP5Nm5sl6_yjW8EYgg1Tw/viewform", text: "Inscrições para apresentações C4P"}
 
 # About Block
 aboutTitle: "Sobre o DevFest Portugal"
@@ -89,18 +88,18 @@ rockstarSpeakersButtonText: "Ver todos os oradores"
 # Location Block
 locationBlockTitle: "Localização"
 eventLocationName: "Evento Online"
-eventLocationLink: "https://gdg.community.dev/events/details/google-gdg-leiria-presents-devfest-portugal-2021/"
-# eventStreetAddress: ""
-# eventAddressLocality: ""
-# eventAddressLocalityRegion: ""
-# eventPostalCode: ""
-# eventAddressCountry: "Portugal"
-# eventStartTime: "2020-10-17T14:00"
-# eventDoorTime: "09:00"
-# eventEndTime: "2020-10-18T18:00"
-# eventPlaceCoordinates: ""
-# mapCenterCoordinates: ""
-# mapMobileCenterCoordinates: ""
+eventLocationLink: "https://gdg.community.dev/events/details/google-gdg-lisboa-presents-devfest-portugal-2021-with-gdg/"
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "79000"
+eventAddressCountry: "Portugal"
+eventStartTime: "2021-11-26T14:00"
+eventDoorTime: "09:00"
+eventEndTime: "2021-11-27T18:00"
+eventPlaceCoordinates: "38.7436883, -9.1952226"
+mapCenterCoordinates: "38.7436883, -9.1952226"
+mapMobileCenterCoordinates: "38.7436883, -9.1952226"
 
 # Venue Block
 # venueBlockTitle: "Venue"
@@ -181,7 +180,6 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://gdgportugal.xyz/", text: "GDG Portugal"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contactos"
@@ -202,7 +200,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nós"
-aboutUs: "O GDG (Google Developer Group) é uma comunidade que se orgulha de ser um ambiente inclusivo onde todos e qualquer pessoa interessada em tecnologia - desde programadores principiantes a profissionais experientes - são bem-vindos a participar. A GDG Portugal, juntando todas as comunidades GDG a nível nacional, tem como missão organizar nos dias 26 e 27 de Novembro de 2021 o DevFest mais abrangente de Portugal."
+aboutUs: "O GDG (Google Developer Group) é uma comunidade que se orgulha de ser um ambiente inclusivo onde todos e qualquer pessoa interessada em tecnologia - desde programadores principiantes a profissionais experientes - são bem-vindos a participar. A GDG Portugal, juntando todas as comunidades GDG a nível nacional, tem como missão organizar nos dias 16 e 17 de Outubro de 2020 o DevFest mais abrangente de Portugal."
 
 # Newsletter
 newsletterAbout: "Tens curiosidade sobre o que se vai passar durante o DevFest? Queres ficar a par de todas as novidades? Então sobrescreve a nossa newsletter!"
@@ -224,34 +222,34 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Lviv"
 directionDetailsCards:
-#  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
-#  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
-#  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
-  #  -
-  #   title: "Hotels"
-  #   links:
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-  #  -
-  #   title: "Registration"
-  #   links:
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-  #  -
-  #   title: "Attendance Details"
-  #   links:
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Hotels"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Registration"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Attendance Details"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # # Hackathon
 # hackathonTitle: "Hackathon"
