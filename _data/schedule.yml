@@ -6,33 +6,18 @@
 
    timeslots:
      - {
-       startTime: "16:00",
-       endTime: "16:10",
-       sessionIds: [001]
-     }
-     - {
-       startTime: "16:10",
-       endTime: "16:50",
+       startTime: "18:00",
+       endTime: "18:50",
        sessionIds: [002]
      }
      - {
-       startTime: "17:00",
-       endTime: "17:40",
+       startTime: "18:50",
+       endTime: "19:40",
        sessionIds: [002]
      }
      - {
-       startTime: "17:50",
-       endTime: "18:30",
-       sessionIds: [002]
-     }
-     - {
-       startTime: "18:40",
-       endTime: "19:20",
-       sessionIds: [002]
-     }
-     - {
-       startTime: "19:20",
-       endTime: "19:30",
+       startTime: "19:40",
+       endTime: "19:50",
        sessionIds: [003]
      }
  -
@@ -43,31 +28,26 @@
    timeslots:
      - {
        startTime: "14:00",
-       endTime: "14:10",
+       endTime: "14:50",
        sessionIds: [004]
      }
      - {
-       startTime: "14:10",
-       endTime: "14:50",
-       sessionIds: [002]
-     }
-     - {
-       startTime: "15:00",
+       startTime: "14:50",
        endTime: "15:40",
        sessionIds: [002]
      }
      - {
-       startTime: "15:50",
-       endTime: "16:30",
+       startTime: "15:55",
+       endTime: "16:45",
        sessionIds: [002]
      }
      - {
-       startTime: "16:40",
-       endTime: "17:20",
+       startTime: "17:35",
+       endTime: "18:10",
        sessionIds: [002]
      }
      - {
-       startTime: "17:20",
-       endTime: "17:30",
+       startTime: "18:10",
+       endTime: "18:20",
        sessionIds: [005]
      }

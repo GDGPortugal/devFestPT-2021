@@ -60,7 +60,7 @@ eventDate: "26 e 27 - Novembro, 2021"
 typeoutTextValues: '"", "Portugal", "Lisboa", "Coimbra", "Porto", "Madeira", "Bragança", "Castelo Branco", "Covilhã", "Faro", "Leiria"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdj7JfA9LTd-IMkCeANN_mD7Ikp-EP5Nm5sl6_yjW8EYgg1Tw/viewform", text: "Inscrições para apresentações C4P"}
+ - {link: "https://gdg.community.dev/events/details/google-gdg-leiria-presents-devfest-portugal-2021/", text: "Inscrição"}
 
 # About Block
 aboutTitle: "Sobre o DevFest Portugal"
@@ -200,7 +200,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nós"
-aboutUs: "O GDG (Google Developer Group) é uma comunidade que se orgulha de ser um ambiente inclusivo onde todos e qualquer pessoa interessada em tecnologia - desde programadores principiantes a profissionais experientes - são bem-vindos a participar. A GDG Portugal, juntando todas as comunidades GDG a nível nacional, tem como missão organizar nos dias 16 e 17 de Outubro de 2020 o DevFest mais abrangente de Portugal."
+aboutUs: "O GDG (Google Developer Group) é uma comunidade que se orgulha de ser um ambiente inclusivo onde todos e qualquer pessoa interessada em tecnologia - desde programadores principiantes a profissionais experientes - são bem-vindos a participar. A GDG Portugal, juntando todas as comunidades GDG a nível nacional, tem como missão organizar nos dias 26 e 26 de Novembro de 2021 o DevFest mais abrangente de Portugal."
 
 # Newsletter
 newsletterAbout: "Tens curiosidade sobre o que se vai passar durante o DevFest? Queres ficar a par de todas as novidades? Então sobrescreve a nossa newsletter!"
