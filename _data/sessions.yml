@@ -1,7 +1,7 @@
 -
   id: 001
   title: "Boas vindas Dia 1"
-  description: "Boas vindas e apresentação do primeiro dia do DevFest Portugal 2020"
+  description: "Boas vindas e apresentação do primeiro dia do DevFest Portugal 2021"
   subtype: presentation
   speakers: [101]
   language: PT
@@ -16,35 +16,104 @@
   complexity: "Nenhuma"
 -
   id: 003
-  title: "Sessão de Encerramento"
-  description: "Sessão de encerramento do primeiro dia do DevFest Portugal 2020"
+  title: "The future of the web platform"
+  description: "The future of the web platform, where Chrome is going and show you some new exciting features that are coming to the web"
   subtype: presentation
-  speakers: [101]
-  language: PT
+  speakers: [2]
+  language: EN
   complexity: "Nenhuma"
 -
   id: 004
-  title: "Boas vindas Dia 2"
-  description: "Boas vindas e apresentação do segundo dia do DevFest Portugal 2020"
+  title: "Sessão de Encerramento - Dia 1"
+  description: "Sessão de encerramento do primeiro dia do DevFest Portugal 2021"
   subtype: presentation
   speakers: [101]
   language: PT
   complexity: "Nenhuma"
 -
   id: 005
-  title: "Sessão de Encerramento"
-  description: "Sessão de encerramento do segundo dia do DevFest Portugal 2020"
+  title: "Boas vindas Dia 2"
+  description: "Boas vindas e apresentação do segundo dia do DevFest Portugal 2021"
   subtype: presentation
   speakers: [101]
   language: PT
   complexity: "Nenhuma"
 -
-  id: 006
-  title: "Creating games with Flutter"
-  description: "Flutter já se prova como uma das maneiras mais performáticas e flexíveis para se criar interfaces de usuário. Vamos ver como podemos tirar vantagens dessas características para criarmos jogos."
+  id: 006 
+  title: "Animações em Flutter - Como dar nova vida às nossas Apps"
+  description: 'Muitas das vezes como programadores focamo-nos simplesmente em duas coisas - criar interfaces bonitas e assegurar-nos que todas as chamadas à API são bem feitas para que o utilizador consiga receber e enviar toda a informação que quiser. Contudo, esquecemo-nos de um importante ponto - a experiência do utilizador, o "look and feel", como dizem os ingleses, e aqui as animações são a nossa bóia de salvação, visto que nos permitem guiar o utilizador para onde nós queremos. Nesta talk vamos explorar como podemos utilizar os vários tipos de animações em Flutter ( implícitas e explícitas), diferentes maneiras de ajustar o "feel" da animação através de curvas e como podemos ter animações entre ecrãs com as "Hero Aniamtions"'
   subtype: presentation
-  speakers: [0]
+  speakers: [3]
   language: PT
   complexity: "Intermédio"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 007 
+  title: "Criando uma app de livros com Jetpack Compose e Firebase"
+  description: 'Ter uma app Android de sucesso geralmente significa ter uma UI bonita e moderna, acompanhada de um backend sólido e seguro. Lá se foram os dias em que isto só podia ser obtido com os XML layouts e servidores dedicados. Hoje em dia podes construir apps muito mais rápido se utilizarmos UIs declarativas e backends "serverless". Nesta sessão, o Rosário irá mostrar como construir uma aplicação Android utilizando Jetpack Compose e Firebase. Você irá aprender como: - Criar UIs declarativas em Android utilizando Composables. - Autenticar utilizadores utilizando Firebase Auth no Android. - Ler e Guardar dados no Cloud Firestore.'
+  subtype: presentation
+  speakers: [4]
+  language: PT
+  complexity: "Intermédio"
+
+-
+  id: 008 
+  title: "Break"
+  description: ''
+  subtype: break
+  speakers: [101]
+  language: PT
+  complexity: "Nenhuma"
+
+-
+  id: 009 
+  title: "Construindo uma API assíncrona com Ktor e Kotlin"
+  description: 'Ktor é um framework leve e flexível construída do zero usando Kotlin e Coroutines que nos permite criar aplicativos e serviços assíncronos de forma simples e fácil. Nesta sessão estaremos a abordar na prática a criação de uma API assíncrona de forma simples, usando Kotlin e Ktor.'
+  subtype: presentation
+  speakers: [5]
+  language: PT
+  complexity: "Intermédio"
+
+-
+  id: 010 
+  title: "Clean Architecture para Apps Flutter"
+  description: 'Você já teve problemas com a maneira como as coisas são construídas no Back-end que tornam sua vida um pesadelo para fazer a integração com o aplicativo? Você já tentou migrar seu aplicativo para as novas versões do Flutter e enfrentou problemas com muitos pacotes que foram abandonados e o seu código estava tão dependente deles que tornou a migração uma missão impossível? Você já mudou algo em um lado do seu aplicativo que afetou algo completamente diferente no outro lado? Esses são alguns dos muitos outros problemas que um aplicativo sem uma arquitetura bem estruturada pode ter e a Clean Architecture pode ser uma solução possível para isso. Nesta apresentação, falarei sobre os principais conceitos da Clean Architecture para Apps Flutter, os motivos pelos quais tem sido ótimo em todas as minhas experiências, os desafios que eu já enfrentei e também mostrarei um exemplo de uma aplicação.'
+  subtype: presentation
+  speakers: [6]
+  language: PT
+  complexity: "Intermédio"
+
+-
+  id: 0011
+  title: "Break"
+  description: ''
+  subtype: break
+  speakers: [101]
+  language: PT
+  complexity: "Nenhuma"
+
+-
+  id: 012
+  title: "Appreciation Analysis: porque não precisamos de (tradicionais) Performance Reviews"
+  description: 'É tudo uma questão de autodesenvolvimento e crescimento, é ser melhor a cada dia, aprimorando competências e evoluindo com os que nos rodeiam. Quando o crescimento está presente, as pessoas têm a oportunidade de serem desafiadas e desenvolvidas nos seus empregos/papéis, de usar seus pontos fortes e de sentir que estão continuamente a aprender e a crescer, tanto pessoal quanto profissionalmente, para beneficiar a si mesmas e à organização. No final, não precisamos de gestores, reuniões formais ou controlo. Precisamos de honestidade, justiça e respeito.'
+  subtype: presentation
+  speakers: [7]
+  language: PT
+  complexity: "Nenhuma"
+
+-
+  id: 013
+  title: "Adicionar um módulo Flutter a um aplicativo existente"
+  description: 'Flutter for Mobile está estável há mais de 2 anos. Uma estratégia para introduzir essa excelente tecnologia em nossas equipes atuais é integrar um módulo ao aplicativo existente. Em teoria, essa tarefa pode ser realizada com bastante facilidade, mas no mundo real temos que levar em consideração os processos de desenvolvimento atuais: como o módulo se integra aos sistemas CI / CD atuais? Qual arquitetura e padrões devem ser seguidos na base de código? Quais responsabilidades o módulo deve ter? UI apenas? UI e algum código de negócios? Ele deve gerenciar suas próprias chamadas de API e armazenamento local? Nesta palestra, explicarei esses assuntos e como os resolvemos.'
+  subtype: presentation
+  speakers: [8]
+  language: PT
+  complexity: "Intermédio"
+
+-
+  id: 014
+  title: "Sessão de Encerramento - Dia 2"
+  description: "Sessão de encerramento do segundo dia do DevFest Portugal 2021"
+  subtype: presentation
+  speakers: [101]
+  language: PT
+  complexity: "Nenhuma"
