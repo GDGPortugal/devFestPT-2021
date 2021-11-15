@@ -1,28 +1,28 @@
-- name: GDG Bragança
-  members:
-    - id: 1
-      name: Victor
-      surname: Oliveira
-      title: Organizador GDG Bragança
-      thumbnailUrl: Braganca/victor.jpg
-      ribbon:
-        - abbr: GDG
-          title: GDG Bragança
-      social:
-        - name: twitter
-          link: 'https://twitter.com/_victorjg'
-        - name: linkedin
-          link: 'https://www.linkedin.com/in/victor-oliveira-1a091151/'
-        - name: medium
-          link: 'ttps://medium.com/@victorlopesjg'
-        - name: github
-          link: 'https://github.com/victorlopesjg'
+#- name: GDG Bragança
+#  members:
+#    - id: 1
+#      name: Victor
+#      surname: Oliveira
+#      title: Organizador GDG Bragança
+#      thumbnailUrl: Braganca/victor.jpg
+#      ribbon:
+#        - abbr: GDG
+#          title: GDG Bragança
+#      social:
+#        - name: twitter
+#          link: 'https://twitter.com/_victorjg'
+#        - name: linkedin
+#          link: 'https://www.linkedin.com/in/victor-oliveira-1a091151/'
+#        - name: medium
+#          link: 'ttps://medium.com/@victorlopesjg'
+#        - name: github
+#          link: 'https://github.com/victorlopesjg'
 - name: GDG Castelo Branco
   members:
     - id: 1
       name: Bruno
       surname: Matias
-      title: Organizador GDG Castelo Branco 
+      title: Organizador GDG Castelo Branco
       thumbnailUrl: Castelo/bruno_matias.jpg
       ribbon:
         - abbr: GDG
@@ -245,41 +245,41 @@
         - abbr: GDG
           title: GDG Leiria
       social:
-    - id: 4
-      name: Rúben
-      surname: Caceiro
-      title: Organizador GDG Leiria
-      thumbnailUrl: Leiria/ruben.jpg
-      ribbon:
-        - abbr: GDG
-          title: GDG Leiria
-      social:
-        - name: github
-          link: 'https://github.com/rcaceiro'
-    - id: 5
-      name: Miguel
-      surname: Sousa
-      title: Organizador GDG Leiria
-      thumbnailUrl: Leiria/miguel.jpg
-      ribbon:
-        - abbr: GDG
-          title: GDG Leiria
-      social:
-        - name: github
-          link: 'https://github.com/imikezz'
-    - id: 6
-      name: Bernardo
-      surname: Borges
-      title: Organizador GDG Leiria
-      thumbnailUrl: Leiria/bernardo.jpg
-      ribbon:
-        - abbr: GDG
-          title: GDG Leiria
-      social:
-        - name: github
-          link: 'https://github.com/kishido'
-        - name: twitter
-          link: 'https://twitter.com/kishido88'
+#    - id: 4
+#      name: Rúben
+#      surname: Caceiro
+#      title: Organizador GDG Leiria
+#      thumbnailUrl: Leiria/ruben.jpg
+#      ribbon:
+#        - abbr: GDG
+#          title: GDG Leiria
+#      social:
+#        - name: github
+#          link: 'https://github.com/rcaceiro'
+#    - id: 5
+#      name: Miguel
+#      surname: Sousa
+#      title: Organizador GDG Leiria
+#      thumbnailUrl: Leiria/miguel.jpg
+#      ribbon:
+#        - abbr: GDG
+#          title: GDG Leiria
+#      social:
+#        - name: github
+#          link: 'https://github.com/imikezz'
+#    - id: 6
+#      name: Bernardo
+#      surname: Borges
+#      title: Organizador GDG Leiria
+#      thumbnailUrl: Leiria/bernardo.jpg
+#      ribbon:
+#        - abbr: GDG
+#          title: GDG Leiria
+#      social:
+#        - name: github
+#          link: 'https://github.com/kishido'
+#        - name: twitter
+#          link: 'https://twitter.com/kishido88'
 - name: GDG Lisboa
   members:
     - id: 1
@@ -290,7 +290,7 @@
       ribbon:
         - abbr: GDG
           title: GDG Lisboa
-      social: 
+      social:
         - name: twitter
           link: 'https://twitter.com/abarroso'
     - id: 2
@@ -301,7 +301,7 @@
       ribbon:
         - abbr: GDG
           title: GDG Lisboa
-      social: 
+      social:
         - name: twitter
           link: 'https://twitter.com/inesarmadabras'
 - name: GDG Madeira
@@ -324,7 +324,7 @@
         - name: instagram
           link: 'https://www.instagram.com/carlosrsabreu/'
     - id: 2
-      name: Diogo 
+      name: Diogo
       surname: Freitas
       title: Organizador GDG Madeira
       thumbnailUrl: Madeira/DiogoFreitas.jpg
@@ -335,7 +335,7 @@
         - name: linkedin
           link: 'https://www.linkedin.com/in/diogo-f-54235199/'
     - id: 3
-      name: Fernando 
+      name: Fernando
       surname: Martins
       title: Organizador GDG Madeira
       thumbnailUrl: Madeira/FernandoMartins.jpg
@@ -352,7 +352,7 @@
 - name: GDG Porto
   members:
     - id: 1
-      name: Artur  
+      name: Artur
       surname: Costa
       title: Organizador GDG Porto
       thumbnailUrl: Porto/artur_costa.jpeg
@@ -362,3 +362,14 @@
       social:
         - name: twitter
           link: 'https://twitter.com/arturc_dev'
+    - id: 2
+      name: Cristina
+      surname: Martins
+      title: Organizador GDG Porto
+      thumbnailUrl: Porto/cristina_martins.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Porto
+      social:
+        - name: twitter
+          link: 'https://twitter.com/cristinaffmart'
