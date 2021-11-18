@@ -1,15 +1,15 @@
 
--
- id: 1
- name: ""
- surname: ""
- company: ""
- title: ""
- bio: ''
- thumbnailUrl: i.png
- rockstar: true
- social:
-   - {name: "twitter", link: ""}
+# -
+#  id: 1
+#  name: ""
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio: ''
+#  thumbnailUrl: i.png
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: ""}
 
 
 -
