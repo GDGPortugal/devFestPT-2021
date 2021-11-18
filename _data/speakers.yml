@@ -1,4 +1,100 @@
 
+# -
+#  id: 1
+#  name: ""
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio: ''
+#  thumbnailUrl: i.png
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: ""}
+
+
+-
+ id: 2
+ name: "Paul"
+ surname: "Kinlan"
+ company: "Google"
+ title: "Lead Chrome Developer Relations team @ Google"
+ bio: 'Paul Kinlan, leads the Chrome Developer Relations team at Google. He and his team want people to have the best experience possible on the web without having to install a native app or produce content in a walled garden.'
+ thumbnailUrl: paul_kinlan.png
+ rockstar: true
+ social:
+   - {name: "twitter", link: "https://twitter.com/Paul_Kinlan"}
+
+-
+ id: 3
+ name: "Gonçalo"
+ surname: "Palma"
+ company: "Pvotal Tech"
+ title: "Lead Flutter Developer"
+ bio: 'Olá! Sou um GDE de Flutter e Dart e o Lead Flutter Developer de Pvotal, uma companhia de tecnologia que explora como é que conseguimos usar Flutter Web para resolver os problemas da indústria equestre. Flutter não só provou ser uma ferramenta que alicia intelectualmente, como também é a tecnologia principal que usei em duas startups diferentes. Também me levou a novos caminhos, sejam eles o Open Source - onde contribui criando packages para Flutter e ajudando em apps open-source como o Fogos.pt e o EstamosOn - o trabalho com as comunidades como na Flutter Portugal e uma paixão nova pela escrita, onde falo sobre temas aborrecidos sobre Flutter. O meu mantra é explorar e encontrar a partir de "rubber-ducking" - muitas das vezes podemos não encontrar a solução online, por isso temos de saber como vasculhar nos confins da documentação, falhar, testar e falar desesperadamente com os nossos colega e amigos até arranjar uma solução.'
+ thumbnailUrl: goncalo_palma.png
+ rockstar: true
+ social:
+   - {name: "website", link: "https://gpalma.pt/"}
+
+-
+ id: 4
+ name: "Rosário"
+ surname: "Fernandes"
+ company: "Vodacom"
+ title: "GDE Firebase"
+ bio: 'Rosário P. Fernandes é um Desenvolvedor Mobile que trabalha na Vodacom Moçambique, GitHub Star e Google Developer Expert para Firebase. Rosário contribui bastante para projetos Open Source e responde centenas de questões no StackOverflow. Nos seus tempos livres gosta de jogar videogames e assistir filmes.'
+ thumbnailUrl: rosario_fernandes.png
+ rockstar: true
+ social:
+   - {name: "twitter", link: "https://twitter.com/thatfiredev"}
+
+-
+ id: 5
+ name: "Manuel"
+ surname: "Ernesto"
+ company: "Banco Millennium Atlântico"
+ title: "Senior Software Enginner"
+ bio: 'Manuel Ernesto é Senior Software Engineer no Banco Millennium Atlantico, com sede em Angola, trabalha com Desenvolvimento Android desde 2015, formado em engenharia informática pelo Instituto Superior Politécnico Independente (ISPI). Organizador do GDG Lubango e Co-Organizador do GDG Luanda.'
+ thumbnailUrl: manuel_ernesto.jpg
+ rockstar: true
+ social:
+   - {name: "twitter", link: "https://twitter.com/manuelernest0"}
+
+-
+ id: 6
+ name: "Leticia"
+ surname: "Baleiro"
+ company: "Basket"
+ title: "Flutter Developer"
+ bio: 'Leticia Baleiro, Brasileira, Flutter Developer, trabalhando atualmente para a Basket (uma empresa da Inglaterra). Amo aprender e compartilhar conhecimento relacionado à Flutter.'
+ thumbnailUrl: leticia_baleiro.jpg
+ rockstar: true
+ social:
+   - {name: "website", link: "https://linktr.ee/lebaleiro"}
+
+-
+ id: 7
+ name: "Diana Grilo"
+ surname: "Silva"
+ company: "Critical TechWorks"
+ title: "Heads of Interactions"
+ bio: 'Diana é uma entusiasta do Agile enquanto mindset, e das pessoas e suas interações em geral! Formada em Engenharia Informática, trabalha como Line/Engineering Manager há cinco anos; vê-se como Manager, Coach e Mentora apaixonada que adora o desafio de entender as pessoas e suas motivações.'
+ thumbnailUrl: diana_silva.jpg
+ rockstar: true
+ social:
+   - {name: "linkedin", link: "https://www.linkedin.com/in/dianagrilosilva/"}
+
+-
+ id: 8
+ name: "Elaine Dias"
+ surname: "Batista"
+ company: "SFEIR"
+ title: "Software Engineer"
+ bio: 'Elaine é líder de equipe na SFEIR, onde trabalha em projetos que consistem em tecnologias móveis e de voz. Ela é apaixonada por Android dev desde 2013, tendo trabalhado em vários projetos em Android nativo, mas também em iOS nativo. Ela está particularmente interessada em tecnologias de voz e sua integração em aplicativos móveis. Desde 2018, sua nova paixão é Flutter, mas ela ainda está interessada em desenvolvimento nativo e todas as suas possibilidades :) Ela é uma GDE para o Google Assistant, Flutter e Dart.'
+ thumbnailUrl: elaine_batista.jpg
+ rockstar: true
+ social:
+   - {name: "twitter", link: "https://twitter.com/elainedbatista"}
 
 #-
 #  id: 1
